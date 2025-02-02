@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "pom.xml",
+      "use": "@vercel/java"
+    }
+  ],
+  "env": {
+    "MAVEN_HOME": "/usr/share/maven"
+  }
+}
+
+
+
